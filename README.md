@@ -5,7 +5,7 @@ This guide is designed to help new Git and GitHub users get started with contrib
 
 ---
 
-## 📑 Contents of This Guide
+## Contents of This Guide
 
 - [Introduction to Git and GitHub](#1-introduction-to-git-and-github)
 - [Basic Git Workflow](#2-basic-git-workflow)
